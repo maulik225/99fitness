@@ -1,0 +1,21 @@
+.grid_items{
+    display:flex !important;
+    justify-content: center !important;
+    gap: 10px   !important;
+    flex-direction: row !important;
+}
+.avtar{
+    background-color: rgb(255, 47, 47) !important; 
+color: white;
+    cursor: pointer;
+}
+.avtar:hover{
+    background-color: #00a8ff !important;
+    color: white !important;
+}
+@media screen and (max-width: 600px) {
+    .MuiTabs-scroller.MuiTabs-fixed.css-jpln7h-MuiTabs-scroller{
+        overflow-x: scroll !important;
+    }
+    .MuiTabs-scroller.MuiTabs-fixed.css-jpln7h-MuiTabs-scroller::-webkit-scrollbar { width: 0 !important }
+}

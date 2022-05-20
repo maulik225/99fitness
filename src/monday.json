@@ -1,0 +1,20 @@
+[
+    {
+    "title": "Warmup",
+    "imgLink":"https://cdn.pixabay.com/photo/2014/03/24/13/40/dumbbells-293955_960_720.png",
+    "exercises": [
+      "Pushups",
+      "Squats",
+      "Joint movements"]
+    },
+    {
+    "title": "Chest Press",
+    "videoLink": "https://www.youtube.com/watch?v=vcBig73ojpE&ab_channel=JeffNippard",
+    "exercises": ["4 sets of 10 reps"]
+    },
+    {
+    "title": "Incliine Bench Press",
+    "videoLink": "https://www.youtube.com/watch?v=SrqOu55lrYU&ab_channel=ScottHermanFitness",
+    "exercises": ["4 sets of 10 reps"]
+    }
+]
