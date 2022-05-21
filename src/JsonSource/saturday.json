@@ -1,0 +1,60 @@
+[
+    {
+    "title": "Warmup",
+    "imgLink":"https://cdn.pixabay.com/photo/2014/03/24/13/40/dumbbells-293955_960_720.png",
+    "exercises": [
+      "Pushups",
+      "Squats",
+      "Joint movements"]
+    },
+    {
+    "title": "Barbell curl",
+    "videoLink": "https://www.youtube.com/watch?v=QZEqB6wUPxQ",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Preacher Curl",
+    "videoLink": "https://www.youtube.com/watch?v=fIWP-FRFNU0",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Hammer Curl",
+    "videoLink": "https://www.youtube.com/watch?v=zC3nLlEvin4",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Incline Dumbbell Curl",
+    "videoLink": "https://www.youtube.com/watch?v=soxrZlIl35U",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Cable curl",
+    "videoLink": "https://www.youtube.com/watch?v=HaGQap7XX4o",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Deadlift",
+    "videoLink": "https://www.youtube.com/watch?v=ytGaGIn3SjE",
+    "exercises": ["4 sets"]
+    },
+    {
+    "title": "Lat Pull Down",
+    "videoLink": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Pull ups",
+    "videoLink": "https://www.youtube.com/watch?v=Qxx0EE4evyI",
+    "exercises": ["3 set 8 to 12 reps"]
+    },
+    {
+    "title": "Single arm dumbell row",
+    "videoLink": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+    "exercises": ["3 set 6 to 8 reps"]
+    },
+    {
+    "title": "Seated Row",
+    "videoLink": "https://www.youtube.com/watch?v=DZ0eN0RF2Jw",
+    "exercises": ["3 set 8 to 12 reps"]
+    }
+]

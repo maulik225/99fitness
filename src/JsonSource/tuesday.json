@@ -1,0 +1,60 @@
+[
+    {
+    "title": "Warmup",
+    "imgLink":"https://cdn.pixabay.com/photo/2014/03/24/13/40/dumbbells-293955_960_720.png",
+    "exercises": [
+      "Pushups",
+      "Squats",
+      "Joint movements"]
+    },
+    {
+    "title": "Crunch",
+    "videoLink": "https://www.youtube.com/watch?v=5ER5Of4MOPI",
+    "exercises": ["3 set 8 to 12 reps"]
+    },
+    {
+    "title": "Hanging Leg Raise",
+    "videoLink": "https://www.youtube.com/watch?v=Pr1ieGZ5atk",
+    "exercises": ["3 set 8 to 12 reps"]
+    },
+    {
+    "title": "Planks",
+    "videoLink": "https://www.youtube.com/watch?v=Ehy8G39d_PM",
+    "exercises": ["3 set 30 sec to 1 min"]
+    },
+    {
+    "title": "Over head Crunch",
+    "videoLink": "https://www.youtube.com/watch?v=bXzT0s42UJE",
+    "exercises": ["3 set 6 to 8 reps"]
+    },
+    {
+    "title": "Lateral Raise",
+    "videoLink": "https://www.youtube.com/watch?v=WJm9zA2NY8E",
+    "exercises": ["3 set 8 to 12 reps"]
+    },
+    {
+    "title": "Overhead press",
+    "videoLink": "https://www.youtube.com/watch?v=_RlRDWO2jfg",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Cable face pull",
+    "videoLink": "https://www.youtube.com/watch?v=Wz6Ir0g5h1U",
+    "exercises": ["3 set 8 to12 reps"]
+    },
+    {
+    "title": "Standing Dumbbell Fly",
+    "videoLink": "https://www.youtube.com/watch?v=cMsV1gP2MEc",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Shrugs",
+    "videoLink": "https://www.youtube.com/watch?v=C6sYjDFuq9I",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Machine shoulder press ",
+    "videoLink": "https://www.youtube.com/watch?v=Duec1jUWBVQ",
+    "exercises": ["4 set 8 to 12 reps"]
+    }
+]

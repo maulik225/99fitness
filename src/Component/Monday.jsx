@@ -10,7 +10,7 @@ import Avatar from '@mui/material/Avatar';
 import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import { red } from '@mui/material/colors';
-import monday from '../../src/monday.json';
+import monday from '../../src/JsonSource/monday.json';
 
 import ReactPlayer from 'react-player'
 
