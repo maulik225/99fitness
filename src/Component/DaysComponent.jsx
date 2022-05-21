@@ -5,13 +5,11 @@ import CardHeader from '@mui/material/CardHeader';
 import CardMedia from '@mui/material/CardMedia';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
-import monday from '../../src/JsonSource/monday.json';
-
 import ReactPlayer from 'react-player'
 
-export default function Monday() {
-  const [total] = React.useState(monday);
-
+export default function DaysComponent({day}) {
+  const jsonFile = require(`../JsonSource/${day}.json`);
+  const [total] = React.useState(jsonFile);
   return (
     <>
       {total.map((item, index) => (

@@ -7,12 +7,7 @@ import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import PropTypes from 'prop-types';
 import "../css/weekday.css";
-import Monday from './Monday';
-import Tuesday from './Tuesday';
-import Wednesday from './Wednesday';
-import Thursday from './Thursday';
-import Friday from './Friday';
-import Saturday from './Saturday';
+import DaysComponent from './DaysComponent';
 // import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 
@@ -66,27 +61,27 @@ const WeekDays = () => {
     const [days] = useState([
       {
         day: "Monday",
-        component:<Monday />
+        component:<DaysComponent day={"monday"} />
       },
       {
         day: "T",
-        component:<Tuesday />
+        component:<DaysComponent day={"tuesday"} />
       },
       {
         day: "W",
-        component:<Wednesday />
+        component:<DaysComponent day={"wednesday"} />
       },
       {
         day: "T",
-        component:<Thursday />
+        component:<DaysComponent day={"thursday"} />
       },
       {
         day: "F",
-        component:<Friday />
+        component:<DaysComponent day={"friday"} />
       },
       {
         day: "S",
-        component:<Saturday />
+        component:<DaysComponent day={"saturday"} />
       }
     ]);
   return (
