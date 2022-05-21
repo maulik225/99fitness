@@ -1,0 +1,36 @@
+[
+    {
+    "title": "Warmup",
+    "imgLink":"https://cdn.pixabay.com/photo/2014/03/24/13/40/dumbbells-293955_960_720.png",
+    "exercises": [
+      "Pushups",
+      "Squats",
+      "Joint movements"]
+    },
+    {
+    "title": "Back squat",
+    "videoLink": "https://www.youtube.com/watch?v=SW_C1A-rejs",
+    "exercises": ["4 set 8 to 10 reps"]
+    },
+    {
+    "title": "Walking lunges",
+    "videoLink": "https://www.youtube.com/watch?v=vni4lElTvsY",
+    "exercises": ["3 set 8 to 10 reps"]
+    },
+    {
+    "title": "Leg raise",
+    "videoLink": "https://www.youtube.com/watch?v=V-tEeOss350",
+    "exercises": ["3 set 8 to 12 reps"]
+    },
+    {
+    "title": "Leg curl",
+    "videoLink": "https://www.youtube.com/watch?v=Mv_8-XwVMFQ",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Leg press",
+    "videoLink": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+    "exercises": ["4 set 8 to 12 reps"]
+    }
+    
+]

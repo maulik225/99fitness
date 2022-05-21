@@ -1,0 +1,55 @@
+[
+    {
+    "title": "Warmup",
+    "imgLink":"https://cdn.pixabay.com/photo/2014/03/24/13/40/dumbbells-293955_960_720.png",
+    "exercises": [
+      "Pushups",
+      "Squats",
+      "Joint movements"]
+    },
+    {
+    "title": "Bench Press",
+    "videoLink": "https://www.youtube.com/watch?v=vcBig73ojpE",
+    "exercises": ["4 sets 8 to 12 reps"]
+    },
+    {
+    "title": "Incline bench press",
+    "videoLink": "https://www.youtube.com/watch?v=SrqOu55lrYU",
+    "exercises": ["4 set 8 to 10 reps"]
+    },
+    {
+    "title": "Decline bench press",
+    "videoLink": "https://www.youtube.com/watch?v=NM5lbuq92Aw",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Machine chest press",
+    "videoLink": "https://www.youtube.com/watch?v=p6jieWs9xs0",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Machine Fly",
+    "videoLink": "https://www.youtube.com/watch?v=u56jywgbvE4",
+    "exercises": ["3 set 8 to 12 reps"]
+    },
+    {
+    "title": "Rope Tricep Pushdown",
+    "videoLink": "https://www.youtube.com/watch?v=8CbJK7mmisE",
+    "exercises": ["4 set 8 to 12 sets"]
+    },
+    {
+    "title": "Tricep Dips",
+    "videoLink": "https://www.youtube.com/watch?v=g9www9dDeDM",
+    "exercises": ["3 set 8 to 12 reps"]
+    },
+    {
+    "title": "Dumbell tricep extenstion",
+    "videoLink": "https://www.youtube.com/watch?v=_gsUck-7M74",
+    "exercises": ["4 set 8 to 12 reps"]
+    },
+    {
+    "title": "Bench Dips",
+    "videoLink": "https://www.youtube.com/watch?v=c3ZGl4pAwZ4",
+    "exercises": ["3 set 8 to 12 reps"]
+    } 
+]

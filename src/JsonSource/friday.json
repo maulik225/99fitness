@@ -1,0 +1,35 @@
+[
+    {
+    "title": "Warmup",
+    "imgLink":"https://cdn.pixabay.com/photo/2014/03/24/13/40/dumbbells-293955_960_720.png",
+    "exercises": [
+      "Pushups",
+      "Squats",
+      "Joint movements"]
+    },
+    {
+    "title": "Cardio Hill Cycle",
+    "videoLink": "https://www.youtube.com/watch?v=VBm5k9wWQOc",
+    "exercises": ["15 Mins"]
+    },
+    {
+    "title": "Treadmill",
+    "videoLink": "https://www.youtube.com/watch?v=n4I_fmegTRk",
+    "exercises": ["15-20 Mins"]
+    },
+    {
+    "title": "Rowing machine",
+    "videoLink": "https://www.youtube.com/watch?v=w2hGNM4l5so",
+    "exercises": ["15 Mins"]
+    },
+    {
+    "title": "Jumping lunge",
+    "videoLink": "https://www.youtube.com/watch?v=y7Iug7eC0dk",
+    "exercises": ["5 Mins"]
+    },
+    {
+    "title": "Brisk Cycling",
+    "videoLink": "https://www.youtube.com/watch?v=jhPqTyejY_0",
+    "exercises": ["10 Mins"]
+    }
+]
