@@ -1,5 +1,4 @@
 import * as React from 'react';
-import { styled } from '@mui/material/styles';
 import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 import CardMedia from '@mui/material/CardMedia';
@@ -13,7 +12,7 @@ export default function DaysComponent({day}) {
   return (
     <>
       {total.map((item, index) => (
-        <div style={{ marginBottom: "24px" }}>
+        <div key={day+item.title} style={{ marginBottom: "24px" }}>
           <Card>
             <CardHeader title={item.title} subheader="" />
             {item.imgLink ? (
@@ -27,10 +26,10 @@ export default function DaysComponent({day}) {
               <ReactPlayer url={item.videoLink} width="320" height="240" controls={true} />
             )}
             <CardContent>
-              <Typography variant="body2" color="text.secondary">
+              <Typography component={'span'} variant="body2" color="text.secondary">
                 {item.title}
-                {item.exercises&& item.exercises.map((exercise, index) => {
-                  return <p>{exercise}</p>
+                {item.exercises && item.exercises.map((exercise, index) => {
+                  return <p key={day+exercise+index}>{exercise}</p>
                 })}
               </Typography>
             </CardContent>
