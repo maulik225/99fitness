@@ -60,27 +60,27 @@ const WeekDays = () => {
   };
     const [days] = useState([
       {
-        day: "Monday",
+        day: "Monday : Chest & Triceps",
         component:<DaysComponent day={"monday"} />
       },
       {
-        day: "T",
+        day: "Tuesday : Shoulders & Abs",
         component:<DaysComponent day={"tuesday"} />
       },
       {
-        day: "W",
+        day: "Wednesday : Back & Biceps",
         component:<DaysComponent day={"wednesday"} />
       },
       {
-        day: "T",
+        day: "Thursday : Legs & Calves",
         component:<DaysComponent day={"thursday"} />
       },
       {
-        day: "F",
+        day: "Friday : Cardio",
         component:<DaysComponent day={"friday"} />
       },
       {
-        day: "S",
+        day: "Saturday : Back & Biceps",
         component:<DaysComponent day={"saturday"} />
       }
     ]);
