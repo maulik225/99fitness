@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import WeekDays from './Component/WeekDays';
+// import WeekDays from './Component/WeekDays';
+import UnderConstructionPage from "../src/Component/UnderConstruction.jsx"
 
 function App() {
   return (
     <div className="App">
-      <WeekDays />
+      <UnderConstructionPage />
+      {/* <WeekDays /> */}
     </div>
   );
 }
